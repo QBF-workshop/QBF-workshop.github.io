@@ -8,9 +8,8 @@ header:
   overlay_color: "#000" # black overlay (optional)
 excerpt: "19 July 2026 · Lisbon, Portugal"
 ---
-| tba  | Paper registration and abstract      |
-| tba  | Paper submission  |
-| tba    | Notification of acceptance |
+| 13 May  | Paper submission  |
+| 27 May    | Notification of acceptance |
 | 1 June    | Early registration via FLoC 2026 registration |
 | 13 July    | Regular registration via FLoC 2026 registration |
 | 19 July  | QBF workshop |
