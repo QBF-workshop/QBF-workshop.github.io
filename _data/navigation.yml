@@ -1,0 +1,11 @@
+main:
+  - title: "Dates"
+    url: /dates/
+  - title: "Call"
+    url: /call/
+  - title: "Submissions"
+    url: /submissions/
+  - title: "Registration"
+    url: /registration/
+  - title: "Organisation"
+    url: /organisation/

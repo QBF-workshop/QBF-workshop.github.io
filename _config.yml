@@ -1,0 +1,22 @@
+title: QBF Workshop 2026
+subtitle: International Workshop on Quantified Boolean Formulas and Beyond 2026
+# email:
+description: >- # this means to ignore newlines until "baseurl:"
+  International Workshop on Quantified Boolean Formulas and Beyond 2026 · Lisbon, Portugal
+
+minimal_mistakes_skin: default
+#search: true
+
+
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+
+layout: splash
+footer: false
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
