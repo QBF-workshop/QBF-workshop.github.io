@@ -16,7 +16,7 @@ excerpt: "July tba, 2026 · Lisbon, Portugal"
 [comment]: <> <a href="https://abs.informatik.uni-freiburg.de/src/team_view.php?teamID=48">Franz-Xaver Reichl</a>, University of Freiburg, Germany\\
 [comment]: <> <a href="https://www.liverpool.ac.uk/people/tony-tan">Tony Tan</a>, UUniversity of Liverpool, United Kingdom
 
-- Leroy Chew, CIIRC, Czech Republic
+- Leroy Chew, Czech Institute of Informatics, Robotics and Cybernetics, CTU Prague, Czech Republic
 - Kaspar Kasche, University of Jena, Germany
 - Franz-Xaver Reichl, University of Freiburg, Germany
 - Tony Tan, University of Liverpool, United Kingdom
