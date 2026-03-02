@@ -9,6 +9,10 @@ header:
 excerpt: "19 July 2026 · Lisbon, Portugal"
 ---
 We invite the submission of extended abstracts on work that has been published already, novel unpublished work, or work in progress.
+Submissions will be managed via HotCRP:
+
+<a href="https://submissions.floc26.org/qbf/" target="_blank">https://submissions.floc26.org/qbf/</a>
+
 More specifically, the following forms of submissions are solicited:
 
 - Proposals for short tutorial presentations on topics related to the workshop. Tutorial proposals will be reviewed by the PC. The number of accepted tutorials depends on the overall number of accepted papers and talks, with the aim to set up a balanced workshop program.
