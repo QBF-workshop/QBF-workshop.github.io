@@ -9,3 +9,5 @@ main:
     url: /registration/
   - title: "Organisation"
     url: /organisation/
+  - title: "QBF Gallery"
+    url: "/gallery/"
