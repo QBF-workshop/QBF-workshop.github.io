@@ -9,6 +9,7 @@ header:
 excerpt: "19 July 2026 · Lisbon, Portugal"
 ---
 | 13 May  | Paper submission  |
+| 17 May  | Solver and benchmark submission for the QBF Gallery  |
 | 27 May    | Notification of acceptance |
 | 1 June    | Early registration via FLoC 2026 registration |
 | 13 July    | Regular registration via FLoC 2026 registration |
