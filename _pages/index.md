@@ -14,6 +14,129 @@ Quantified Boolean formulas (QBF) are an extension of propositional logic which 
 
 The workshop also welcomes work on reasoning with quantifiers in related problems, such as dependency QBF (DQBF), quantified constraint satisfaction problems (QCSP), and satisfiability modulo theories (SMT) with quantifiers.
 
+<h4>QBF Gallery</h4>
+This year there will be another edition of the QBF Gallery. 
+You can find more information at <a href="https://qbf.pages.sai.jku.at/gallery26/" target="_blank">https://qbf.pages.sai.jku.at/gallery26/</a>.
+
+<h4>Invited Speakers </h4>
+We are delighted to announce that there will be two invited talks at the QBF workshop.
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invited Speakers | QBF Workshop </title>
+    <style>
+        .speakers-container {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(320px, 1fr));
+            gap: 30px;
+            
+        }
+        
+        .speaker-card {
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            position: relative;
+        }
+        
+        .speaker-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+        }
+        
+        .speaker-img {
+            width: 100%;
+            height: 280px;
+            object-fit: cover;
+            display: block;
+        }
+        
+        .speaker-info {
+            padding: 25px;
+        }
+        
+        .speaker-name {            
+            font-size: 1.5rem;
+            margin-top: 0px;
+        }
+        
+        .speaker-affiliation {
+            font-size: 1rem;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .speaker-affiliation i {
+            margin-right: 8px;
+        }
+        
+        .speaker-talk {
+            font-size: 0.95rem;
+            border-top: 1px dashed #e0e0e0;
+            padding-top: 15px;
+            line-height: 1.5;
+        }
+        
+        .talk-title {
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+                
+
+        
+        /* Tooltip text */
+        .tooltiptext {
+          visibility: hidden; /* Hidden by default */
+          background-color: white;
+          text-align: left;
+          position: absolute;
+          left: 10px;
+          z-index: 1; /* Ensure tooltip is displayed above content */
+        }
+        
+        @media (max-width: 650px) {
+            .speakers-container {
+                grid-template-columns: 1fr;
+            }
+            
+        }
+    </style>
+</head>
+<body>
+    <section class="speakers-container">
+        <!-- Speaker 1 -->
+        <div class="speaker-card" onclick="window.open('https://www.fmi.uni-jena.de/en/18117/dr-benjamin-boehm', '_blank')">
+            <!-- <img src="/assets/images/image.png" alt="Benjamin Böhm" class="speaker-img">  -->
+            <div class="speaker-info">
+                <h3 class="speaker-name">Benjamin Böhm</h3>
+                <p class="speaker-affiliation"><i class="fas fa-university"></i>University of Jena, Germany</p>
+                <div class="speaker-talk">
+                    <p class="talk-title">TBA</p>
+                    <p></p>
+                </div> 
+            </div>
+        </div>
+        
+        <!-- Speaker 2 -->
+        <div class="speaker-card" onclick="window.open('https://www.ac.tuwien.ac.at/people/peitl/', '_blank')">
+            <!-- <img src="/assets/images/image.png" alt="Tomáš Peitl" class="speaker-img">  -->
+            <div class="speaker-info">
+                <h3 class="speaker-name">Tomáš Peitl</h3>
+                <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Wien, Austria</p>
+                <div class="speaker-talk">
+                    <p class="talk-title">TBA</p>
+                    <p></p>
+                </div> 
+            </div>
+        </div>
+        
+        
+    </section>
+</body>
 
 <h4>About</h4>
 
