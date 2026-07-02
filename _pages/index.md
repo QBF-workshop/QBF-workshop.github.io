@@ -115,8 +115,20 @@ We are delighted to announce that there will be two invited talks at the QBF wor
                 <h3 class="speaker-name">Benjamin Böhm</h3>
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>University of Jena, Germany</p>
                 <div class="speaker-talk">
-                    <p class="talk-title">TBA</p>
-                    <p></p>
+                    <p class="talk-title">The Complexity of Quantified CDCL</p>
+                    <p>
+                        Solving Quantified Boolean Formulas (QBFs) extends the well-known SAT problem by allowing quantification over variables. 
+                        As the canonical PSPACE-complete problem, QBF is generally considered to be significantly harder than the NP-complete SAT problem. 
+                        Despite the absence of polynomial-time algorithms for SAT, the dominant practical approach, Conflict Driven Clause Learning (CDCL), performs remarkably well on many industrial instances. 
+                        For unsatisfiable formulas, CDCL generates Resolution refutations, and a result by Pipatsrisawat and Darwiche (2011) established that CDCL, viewed as a proof system, is equivalent to Resolution.
+                    </p><p>
+                        A common strategy in QBF solving is to lift successful SAT-solving techniques to the quantified setting. 
+                        In particular, CDCL can be generalized to Quantified Conflict Driven Clause Learning (QCDCL). 
+                        In this talk, we examine the similarities and differences between CDCL and QCDCL. 
+                        We identify limitations of QCDCL by applying exponential lower bounds and use these results to compare and separate different QCDCL variants. 
+                        A central question is whether there exists a variant of QCDCL that simulates its underlying proof system in the same way that CDCL simulates Resolution. 
+                        We present several modifications of QCDCL and show how they can strengthen the framework and potentially improve its performance compared to the standard version widely used in practice.
+                    </p>
                 </div> 
             </div>
         </div>
@@ -128,8 +140,22 @@ We are delighted to announce that there will be two invited talks at the QBF wor
                 <h3 class="speaker-name">Tomáš Peitl</h3>
                 <p class="speaker-affiliation"><i class="fas fa-university"></i>TU Wien, Austria</p>
                 <div class="speaker-talk">
-                    <p class="talk-title">TBA</p>
-                    <p></p>
+                    <p class="talk-title">Dependency Schemes from Antiquity to Modernity</p>
+                    <p>
+                        Dependency schemes modify the quantifier structure of quantified Boolean formulas with the goal of making them easier to solve or reason about. 
+                        The term dependency scheme was coined by Samer and Szeider in their SAT'07 paper (and JAR'09). 
+                        Dependency schemes have since found use in both solvers and proof theory, yielding exponential separations in proof complexity and finding unexpected applications in proof systems.
+                    </p><p>
+                        Originally, dependency schemes were formalized as truth-preserving quantifier-shifting transformations of QBFs. 
+                        This viewpoint proved cumbersome as quantifier shifting is too coarse to operate on individual variable pairs. 
+                        Integration into the solver DepQBF inspired a proof-theoretic perspective, in which dependency schemes extend proof systems. 
+                        This ultimately led back to a semantic view: today dependency schemes are understood once again as truth-preserving prefix transformations—this time of Dependency Quantified Boolean Formulas.
+                    </p><p>
+                        The schemes themselves evolved as well. 
+                        Samer and Szeider proposed the standard (and also triangle) dependency scheme, based on variable connectivity. 
+                        Better understanding of the underlying semantics has since led to increasingly more general notions of connectivity, and, in turn, to ever stronger dependency schemes. 
+                        Dependency schemes are alive and well in 2026: two SAT papers propose new schemes, while a third resolves a long-standing open problem.
+                    </p>
                 </div> 
             </div>
         </div>

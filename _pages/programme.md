@@ -12,7 +12,7 @@ There will be two invited talks and 12 regular talks.
 
 | Time | Event |
 |:---|:---|
-| **09:00 AM** | Invited Speaker: Tomáš Peitl  |
+| **09:00 AM** | Dependency Schemes from Antiquity to Modernity: **Invited Speaker Tomáš Peitl**  |
 | **09:40 AM** | Certification of True QBF Formulas in Expansion-Based Solving: Sidhant Bhavnani, Clemens Hofstadler, Martina Seidl  |
 | **10:00 AM** | Solving Connect Four with QBF: The Progress So Far: Valentin Mayer-Eichberger, Abdallah Saffidine  |
 | **10:20 AM** | Coffee Break  |
@@ -21,7 +21,7 @@ There will be two invited talks and 12 regular talks.
 | **11:30 AM** | On the Practicality of DQBF Solving for Succinctly Represented Graph Problems: Chen-Ching Nieh, Chi-Kit Ng, Jie-Hong R. Jiang, Tony Tan  |
 | **11:50 AM** | QBF Gallery: Martina Seidl, Cynthia Peyrer, Luca Pulina  |
 | **12:10 PM** | Lunch   |
-| **14:00 PM** | Invited Speaker: Benjamin Böhm   |
+| **14:00 PM** | The Complexity of Quantified CDCL: **Invited Speaker Benjamin Böhm**   |
 | **14:40 PM** | Quantified CDCL and Dependency Schemes: A proof-theoretic study: Abhimanyu Choudhury, Meena Mahajan  |
 | **15:00 PM** | A Boolean static proof system for Quantified Boolean Formulas: Jan Johannsen, Marc Vinyals  |
 | **15:20 PM** | A QBF-like Fragment of EPR: Leroy Chew, Mikoláš Janota, Martin Suda, Miroslav Olšák  |
