@@ -115,7 +115,7 @@ There will be two invited talks and 12 regular talks.
       <td>Coffee Break</td>
     </tr>
     <tr class="session-row">
-      <td class="time-col">9:00</td>
+      <td class="time-col">16:10</td>
       <td>Session 4 - QBF Counting, Sampling and Synthesis</td>
     </tr>
     <tr>
