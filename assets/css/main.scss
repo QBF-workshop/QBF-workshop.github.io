@@ -1,0 +1,58 @@
+---
+sasscss: true
+---
+
+@import "minimal-mistakes";
+
+.programme-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  font-family: inherit;
+}
+
+.programme-table td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+  text-align: left;
+}
+
+.programme-table .time-col {
+  width: 100px;
+  font-weight: bold;
+  color: #444;
+}
+
+.programme-table .details {
+  display: block;
+  font-size: 0.85rem;
+  color: #666;
+  margin-top: 4px;
+  font-weight: normal;
+}
+
+.programme-table .session-row {
+  background-color: #e3f2fd; /* Light Blue */
+  font-weight: bold;
+}
+
+.programme-table .break-row {
+  background-color: #fff9c4; /* Light Yellow */
+  font-weight: bold;
+}
+
+.programme-table .talk-title {
+  font-weight: bold;
+  display: block;
+}
+
+.invited-talk {
+  border-left: 5px solid #2c3e50 !important; 
+  background-color: #fcfcfc !important; 
+}
+
+.invited-talk .talk-title {
+  color: #2c3e50;
+  font-style: italic;
+}
