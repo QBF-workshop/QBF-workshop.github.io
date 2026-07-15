@@ -10,7 +10,7 @@ excerpt: "19 July 2026 · Lisbon, Portugal"
 ---
 There will be two invited talks and 12 regular talks.
 
-All talks will take place in building 2 room C5.02.
+All talks will take place in building 2 room <a href="https://informatica.iscte-iul.pt/en/support-spaces/buildings/building-2/c502/" target="_blank">C5.02</a>.
 
 <table class="programme-table">
   <tbody>
