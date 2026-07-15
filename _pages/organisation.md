@@ -9,7 +9,7 @@ header:
 excerpt: "19 July 2026 · Lisbon, Portugal"
 ---
 
-<h4>Program Committee</h4>
+<h4>Programme Committee</h4>
 [comment]: <> Names + Links
 [comment]: <> <a href="https://www.ac.tuwien.ac.at/people/lchew/">Leroy Chew</a>, TU Wien, Austria\\
 [comment]: <> <a href="https://www.fmi.uni-jena.de/en/40843/lea-kasche">Lea Kasche</a>, University of Jena, Germany\\
